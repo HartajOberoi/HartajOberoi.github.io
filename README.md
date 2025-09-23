@@ -1,8 +1,8 @@
 # Hartaj Oberoi
+### Certified AWS Cloud Practitioner | Professional Scrum Master (PSM I) | Master’s in Information Technology & Analytics (Rutgers)
 
 ## 🔹 About Me
-- Certified AWS Cloud Practitioner
-- Professional Scrum Master (PSM I)
+- Data-driven IT and Analytics professional skilled in Python, SQL, Power Bi, R, Tableau, AWS, and geospatial analysis, with a strong foundation in machine learning and business intelligence.
 
 ## 🔹 Education
 - MS in Information Technology and Analytics, Rutgers Business School
