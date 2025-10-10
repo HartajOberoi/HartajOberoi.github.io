@@ -41,4 +41,4 @@ Python | SQL | AWS | Machine Learning | Project Management | Power BI | Tableau 
 ---
 
 ### 🔹 Contact
-[LinkedIn](https://www.linkedin.com/in/hartaj-singh/) | [GitHub](https://github.com/hartaj-singh)
+[LinkedIn](https://www.linkedin.com/in/hartaj10/) | [GitHub](https://github.com/HartajOberoi/HartajOberoi.github.io)
