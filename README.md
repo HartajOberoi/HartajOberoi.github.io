@@ -4,7 +4,7 @@ layout: default
 
 <img src="profilePictures_944009_IDPhoto.png" alt="Hartaj" width="180" style="border-radius: 50%; display: block; margin: 0 auto;" />
 
-# Hartaj Singh
+# Hartaj Oberoi
 **Certified AWS Cloud Practitioner | Professional Scrum Master (PSM I)**  
 **Master’s in Information Technology & Analytics (Rutgers University)**
 
