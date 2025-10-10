@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <img src="profilePictures_944009_IDPhoto.png" alt="Hartaj" width="180" style="border-radius: 50%; display: block; margin: 0 auto;" />
 
 # Hartaj Oberoi
