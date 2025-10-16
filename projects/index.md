@@ -16,7 +16,7 @@ Welcome to my project portfolio! Below are some of my featured analytics and dat
 **Tools Used:** Tableau 
 
 
-📁 [⬇️ Download Tableau Workbook (.twb)](/assets/projects/Final_Project_Tableau_Section_3-2_Final-2.twb)
+📁 [⬇️ Download Tableau Workbook (.twb)](/assets/projects/Management_Information_Systems/Final_Project_Tableau_Section_3-2_Final-2.twb)
 
 ---
 
