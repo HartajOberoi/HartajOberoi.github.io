@@ -42,3 +42,29 @@ Python | SQL | AWS | Machine Learning | Project Management | Power BI | Tableau 
 
 ### 🔹 Contact
 [LinkedIn](https://www.linkedin.com/in/hartaj10/) | [GitHub](https://github.com/HartajOberoi/HartajOberoi.github.io)
+
+---
+layout: default
+title: Projects
+---
+
+### 🔹 Projects
+
+Welcome to my project portfolio! Below are some of my featured analytics and data visualization projects.
+
+---
+
+## 📊 Tableau Project — Dashboard
+
+<img src="/assets/images/Data_Analysis_and_Visualization_dashboard_preview.png" alt="Data Analysis and Visualization Final Project dashboard preview" width="800" style="display: block; margin: 0 auto; border-radius: 10px;">
+
+**Tools Used:** Tableau 
+
+
+📁 [⬇️ Download Tableau Workbook (.twb)](/assets/projects/Management_Information_Systems/Final_Project_Tableau_Section_3-2_Final-2.twb)
+
+---
+
+### 🔗 More Projects Coming Soon!
+
+Stay tuned for additional projects.
