@@ -11,7 +11,7 @@ Welcome to my project portfolio! Below are some of my featured analytics and dat
 
 ## 📊 Tableau Project — Dashboard
 
-<img src="/assets/images/tableau_dashboard_preview.png" alt="Tableau Dashboard Preview" width="800" style="display: block; margin: 0 auto; border-radius: 10px;">
+<img src="/assets/images/Data_Analysis_and_Visualization_dashboard_preview.png" alt="Data Analysis and Visualization Final Project dashboard preview" width="800" style="display: block; margin: 0 auto; border-radius: 10px;">
 
 **Tools Used:** Tableau 
 
