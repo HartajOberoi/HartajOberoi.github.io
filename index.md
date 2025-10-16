@@ -43,11 +43,6 @@ Python | SQL | AWS | Machine Learning | Project Management | Power BI | Tableau 
 ### 🔹 Contact
 [LinkedIn](https://www.linkedin.com/in/hartaj10/) | [GitHub](https://github.com/HartajOberoi/HartajOberoi.github.io)
 
----
-layout: default
-title: Projects
----
-
 ### 🔹 Projects
 
 Welcome to my project portfolio! Below are some of my featured analytics and data visualization projects.
