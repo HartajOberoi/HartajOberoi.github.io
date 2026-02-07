@@ -64,6 +64,17 @@ Welcome to my project portfolio! Below are some of my featured analytics and dat
 
 📁 [⬇️ Download Sql file (.sql)](/assets/projects/Management_Information_Systems/Sql_Final-2.sql)
 
+## 📊 Reinforcement Learning Project
+
+**Tools Used:** Python, and Google Collab.
+
+
+📁 [⬇️ Download Ipynb Workbook (.ipynb)](/assets/projects/Reinforcement_Learning_Final_Project/AI_MDP_Qlearning_versus_PolicyIteration.ipynb)
+
+📁 [⬇️ Download Pdf file (.pdf)](/assets/projects/Reinforcement_Learning_Final_Project/Final_Project_Section_3-2_(1.1).xlsx)
+
+📁 [⬇️ Download Ipynb file (.ipynb)](/assets/projects/Reinforcement_Learning_Final_Project/RL_Final_Exam_May5(1).ipynb)
+
 ---
 
 ### 🔗 More Projects Coming Soon!
