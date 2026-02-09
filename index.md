@@ -69,7 +69,7 @@ Welcome to my project portfolio! Below are some of my featured analytics and dat
 **Tools Used:** Python, and Google Collab.
 
 
-📁 [⬇️ Download Ipynb Workbook (.ipynb)](/assets/projects/Reinforcement_Learning_Final_Project/AI_MDP_Qlearning_versus_PolicyIteration.ipynb)
+📁 [⬇️ Download Ipynb (.ipynb)](/assets/projects/Reinforcement_Learning_Final_Project/AI_MDP_Qlearning_versus_PolicyIteration.ipynb)
 
 📁 [⬇️ Download Pdf file (.pdf)](/assets/projects/Reinforcement_Learning_Final_Project/Comprehensive_Report.pdf)
 
