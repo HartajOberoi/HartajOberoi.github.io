@@ -18,6 +18,7 @@ Data-driven IT and Analytics professional skilled in Python, SQL, Power BI, R, T
 ### 🔹 Education
 - **MS in Information Technology and Analytics**, Rutgers Business School  
 - **Bachelor's in Business Analytics and Information Technology**, Rutgers Business School
+- **Associate's in Business Administration**, Middlesex College
 
 ---
 
